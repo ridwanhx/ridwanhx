@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- adding description -->
-- 🔭 I’m currently working as a **Quality Assurance**
+- 🔭 I’m currently working as a **Web Developer** Specialist
 - 🌱 I’m currently learning on [**Laravel**](https://laravel.com) Framework
 
 <!-- adding image -->
