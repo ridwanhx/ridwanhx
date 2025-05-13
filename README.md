@@ -9,7 +9,7 @@
 <!-- # karena format daripada file ini adalah .md/markdown, sekilas dari script dibawah ini adalah mengatur font-size, yang dimana # merepresentasikan heading 1, ## merepresentasikan heading 2, dan seterusnya.. -->
 <!-- adding image -->
 <div align="center">
-  <img height="200" width="100%" src="/assets/images/github-header-1.gif"  />
+  <img height="250" width="100%" src="/assets/images/github-header-1.gif"  />
 </div>
 
 ## Hi there, I'm Muhamad Ridwan 👋
