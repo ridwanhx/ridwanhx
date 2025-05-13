@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 ![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridwanhx&show_icons=true&theme=gotham)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ridwanhx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanhx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- snake animation -->
+<img src="https://raw.githubusercontent.com/ridwanhx/ridwanhx/output/snake.svg" alt="Snake animation" />
