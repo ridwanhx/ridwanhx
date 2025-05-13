@@ -8,7 +8,8 @@
 
 <!-- # karena format daripada file ini adalah .md/markdown, sekilas dari script dibawah ini adalah mengatur font-size, yang dimana # merepresentasikan heading 1, ## merepresentasikan heading 2, dan seterusnya.. -->
 <!-- adding image -->
-![Dino Image](/assets/images/github-header-1.gif)
+<img src="/assets/images/github-header-1.gif" alt="Dino Image" style="width:100%; height:auto;" />
+
 ## Hi there, I'm Muhamad Ridwan 👋
 
 <!--
